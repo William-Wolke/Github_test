@@ -10,6 +10,7 @@ namespace Github_test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Väldigt viktigt program");
         }
     }
 }
